@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DONE_HOKAGES_AND_CLICK_NOT_WORKING.iml" filepath="$PROJECT_DIR$/.idea/modules/DONE_HOKAGES_AND_CLICK_NOT_WORKING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DONE_HOKAGES_AND_CLICK_NOT_WORKING.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DONE_HOKAGES_AND_CLICK_NOT_WORKING.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DONE_HOKAGES_AND_CLICK_NOT_WORKING.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DONE_HOKAGES_AND_CLICK_NOT_WORKING.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DONE_HOKAGES_AND_CLICK_NOT_WORKING.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DONE_HOKAGES_AND_CLICK_NOT_WORKING.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DONE_HOKAGES_AND_CLICK_NOT_WORKING.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DONE_HOKAGES_AND_CLICK_NOT_WORKING.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
